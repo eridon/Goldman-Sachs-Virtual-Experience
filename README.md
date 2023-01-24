@@ -1,1 +1,1 @@
-# goldman-sachs-virtual-internship
+# Goldman Sachs Software Engineering Virtual Experience
