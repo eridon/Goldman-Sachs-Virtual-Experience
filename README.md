@@ -2,7 +2,7 @@
 
 ## Certificate of Completion
 
-![Cert](https://github.com/eridon/goldman-sachs-virtual-internship/blob/e7bd0d2f5504d36ccadae46d2cd9a6c7706577f9/Goldman%20Sachs%20VEP.docx)
+![Cert](Goldman Sachs VEP.docx)
 
 ## Task Overview: Crack Leaked Passwords from a Database
 
