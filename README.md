@@ -1,9 +1,5 @@
 # Goldman Sachs Software Engineering Virtual Experience
 
-## Certificate of Completion
-
-![Cert](Goldman Sachs VEP.docx)
-
 ## Task Overview: Crack Leaked Passwords from a Database
 
 Your job is to crack as many passwords as possible with available tools (e.g. use Hashcat). Here are your Task instructions:
