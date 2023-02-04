@@ -1,21 +1,24 @@
-# Goldman Sachs Software Engineering Virtual Experience
+# Goldman Sachs Software Engineering Virtual Experience Task
 
-## Task Overview: Crack Leaked Passwords from a Database
+This repository contains the results of a password cracking exercise performed on a password dump file. The aim of the exercise was to assess the type of hashing algorithm used, the level of protection offered for the passwords, the possible controls that could be implemented to prevent successful cracking, and the organization's password policy.
 
-Your job is to crack as many passwords as possible with available tools (e.g. use Hashcat). Here are your Task instructions:
+# Contents
 
-```bash
-1. Review the links provided in the additional resources (section 4) below to gain a background understanding of password cracking
+The repository contains the following files:
 
-2. Try to crack the passwords provided in the 'password dump' file below using available tools
+Password cracking report - A detailed report of the findings and conclusions of the password cracking exercise.
 
-3. Assess the 5 questions in the task instructions below in relation to the passwords provided (type of hashing algorithm, level of protection, possible controls that could be implemented, password policy, changes in policy)
+# How to use
 
-4. Draft an email/memo briefly explaining your findings in relation to controls used by the organization and your proposed uplifts. We recommend spending about 1.5 hours on this task and keeping it at 1 page in length
+To view the results of the password cracking exercise, simply clone the repository and open the password cracking report file. The report provides a comprehensive analysis of the results and includes information on the type of hashing algorithm used, the level of protection offered, the possible controls that could be implemented, the organization's password policy, and proposed changes to the policy.
 
-```
+# Background
 
-Your answer should be provided in the form of a draft email/memo explaining your findings and conclusions of controls currently used by an organization to prevent successful cracking of passwords and potential uplifts that you would propose to existing controls with justifications.
+This exercise was part of an internship task for Goldman Sachs, which required the intern to crack as many passwords as possible using available tools (e.g. Hashcat) and to provide a draft email/memo explaining the findings and conclusions of the analysis.
+
+# Note
+
+Please note that the password dump file is not included in the repository for security reasons. The results and conclusions presented in the password cracking report are based on a fictional password dump file
 
 ## Reference
 
